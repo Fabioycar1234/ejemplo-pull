@@ -63,7 +63,7 @@ Ser una empresa líder en la producción y comercialización de productos saluda
 ## Organigrama:
 ---
 <p align="center">
-  <img src="https://ibb.co/TqxYzWzj" alt="Organigrama Qori" width="300">
+  <img src="Organigrama_QORI.jpg" alt="Organigrama Qori">
 </p>
 
 ---
